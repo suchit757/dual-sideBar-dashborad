@@ -214,7 +214,6 @@ function selectSection(section) {
 
 const searchIconBtn = document.getElementById('searchIconBtn');
 searchIconBtn.addEventListener('click', function () {
-  console.log("Search icon clicked");
 });
 
 function saveState() {
